@@ -1,18 +1,19 @@
 # 601
 Menú de programas para la materia programación orientada a objetos.
 DOCENTE: Dr. Hugo Ortiz Quiroga.
+
 Alumno: Ramírez Juárez Pamela
 
-HolaMundo.java
+1.HolaMundo.java
 
-V1TRIFIV.java
+2.V1TRIFIV.java
 
-V2TRIFIV.java
+3.V2TRIFIV.java
 
-V3TRIFIV.java
+4.V3TRIFIV.java
 
-V4TRIFIV.java
+5.V4TRIFIV.java
 
-JUEGO
+6.JUEGO
 
-Excepciones del 1 al 11
+7.Excepciones del 1 al 11.java
